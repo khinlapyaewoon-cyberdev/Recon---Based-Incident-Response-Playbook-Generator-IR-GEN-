@@ -33,7 +33,7 @@ pip install streamlit pandas huggingface_hub
 1. Run the Streamlit app:
 
 ```bash
-streamlit run ir_gen.py
+streamlit run app.py
 ```
 
 2. Upload your reconnaissance `.txt` file.
@@ -75,3 +75,4 @@ AI-Enhanced Ethical Hacking | Cybersecurity | Digital Forensic | Analyze | Devel
 
 This tool is released for educational, defensive, and research purposes only.
 Any offensive or unauthorized usage is strictly prohibited.
+
